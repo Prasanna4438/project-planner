@@ -1,0 +1,7 @@
+langchain 
+google-generativeai 
+streamlit
+python-dotenv
+geopy
+gtts
+langchain-google-genai
